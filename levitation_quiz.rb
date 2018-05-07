@@ -6,6 +6,6 @@ def levitation_quiz
 	spell = gets.chomp
 	if spell == "Wingardium Leviosa"
 	  break
-
-
+	 end
+	 end
 
