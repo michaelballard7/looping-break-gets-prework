@@ -6,7 +6,7 @@ def levitation_quiz
     	spell = gets.chomp
     	if spell == "Wingardium Leviosa"
     	  puts "You passed the quiz!"
-    	  break
+    	  keyword = true
       end
 	  end
 end
